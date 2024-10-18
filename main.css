@@ -1,0 +1,17 @@
+h1 {
+    text-decoration: underline;
+}
+
+.bold-text {
+    font-weight: 700;
+}
+
+#id-selector {
+    font-size: 10px;
+}
+
+.image-border {
+    border: 5px solid black;
+    padding: 20px;
+    margin: 20px;
+}
